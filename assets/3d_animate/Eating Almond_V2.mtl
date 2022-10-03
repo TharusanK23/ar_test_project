@@ -1,0 +1,51 @@
+# Blender MTL File: 'Eating Almond_V2.blend'
+# Material Count: 4
+
+newmtl Almond
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Assets\\Almond\\Textures\\Color.png
+
+newmtl Eyes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.008076 0.008076 0.008076
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Texturing\\Texture_Exports\\02\\Eyes_Normal_OpenGL.png
+map_Kd I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Texturing\\Texture_Exports\\02\\Eyes_Base_color.png
+map_Ns I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Texturing\\Texture_Exports\\02\\Eyes_Roughness.png
+refl I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Texturing\\Texture_Exports\\02\\Eyes_Metallic.png
+
+newmtl Mouth
+Ns 597.107451
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.066560 0.046939
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Skin
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Texturing\\Texture_Exports\\02\\Skin_Normal_OpenGL.png
+map_Kd I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Texturing\\Texture_Exports\\02\\Skin_Base_color.png
+map_Ns I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Texturing\\Texture_Exports\\02\\Skin_Roughness.png
+refl I:\\Freelance_work\\3D Animal Character Design\\Sample_9.4.2022\\Texturing\\Texture_Exports\\02\\Skin_Metallic.png

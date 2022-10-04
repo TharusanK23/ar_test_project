@@ -9,7 +9,7 @@ part 'package:ar_test_project/screens/home/body/home_body.dart';
 
 class HomeView extends StatelessWidget {
   static const routeName = "home_view";
-  const HomeView({super.key});
+  const HomeView({Key? key});
 
   @override
   Widget build(BuildContext context) {

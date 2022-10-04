@@ -16,7 +16,7 @@ void main() {
 }
 
 class ARApp extends StatefulWidget {
-  const ARApp({super.key});
+  const ARApp({Key? key});
 
   @override
   State<ARApp> createState() => _ARAppState();

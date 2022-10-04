@@ -8,7 +8,7 @@ part 'package:ar_test_project/screens/slider-test/body/slider_body.dart';
 
 class SliderView extends StatelessWidget {
   static const routeName = "slider_view";
-  const SliderView({super.key});
+  const SliderView({Key? key});
 
   @override
   Widget build(BuildContext context) {
